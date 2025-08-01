@@ -63,8 +63,17 @@ Prerequisites
   ```
 7. Prompt selanjutnya minta gemini untuk membuatkan rencana pengembangan website company profile toko sembako
     ```bash
-    Dari cobebase atau landingpage ini saya ingin membuat website company profile toko sembako.
-    selain itu website tersebut harus memiliki halaman admin panel yang berfungsi untuk manajemen kontennya.
-    untuk databasenya gunakan supabase dan saya sudah menghubungkan konfigurasi MCP nya, jadi kamu sudah bisa langsung akses. apakah kamu bisa bantu? tanyakan jika kamu ada pertanyaan.
+    Saya ingin membangun sebuah website company profile untuk toko sembako, menggunakan basis dari codebase atau landing page yang sudah tersedia.
+   Website ini harus memiliki fitur utama berikut:   
+   Produk (menampilkan daftar produk sembako)  
+   Testimoni pelanggan   
+   Kontak (form atau informasi kontak)   
+   Tentang Kami (About)
+       
+   Selain itu, perlu disediakan halaman admin panel untuk melakukan manajemen konten dari fitur-fitur tersebut (CRUD produk, input testimoni, dll).
+   Untuk backend-nya:   
+   Gunakan Supabase sebagai database dan object storage.   
+   Konfigurasi MCP (Managed Cloud Provider) sudah saya hubungkan, jadi seharusnya kamu sudah bisa langsung mengakses proyek Supabase-nya.   
+   Apakah kamu bisa bantu membuatkan struktur proyek dan implementasinya berdasarkan kebutuhan tersebut? Jika ada hal yang perlu ditanyakan sebelum mulai, silakan tanyakan.
     ```
 8.    
