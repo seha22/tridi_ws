@@ -76,4 +76,5 @@ Prerequisites
    Konfigurasi MCP (Managed Cloud Provider) sudah saya hubungkan, jadi seharusnya kamu sudah bisa langsung mengakses proyek Supabase-nya.   
    Apakah kamu bisa bantu membuatkan struktur proyek dan implementasinya berdasarkan kebutuhan tersebut? Jika ada hal yang perlu ditanyakan sebelum mulai, silakan tanyakan.
     ```
-8.    
+8. AI code akan meminta beberapa data inputan sesuai dengan fitur website yang kita berikan sebelumnya, silahkan sesuaikan dengan kebutuhan website kamu
+9. Pada workshop ini kita membangun websitenya menggunakan framework next.js dan untuk menjalankan aplikasinya menggunakan perintah 'npm run dev'. perintah ini biasaya dieksekusi langsung oleh AI, kadang AI suruh kita untuk menjalankan perintah tersebut sendiri di direktori atau folder cobedabse kita. 
